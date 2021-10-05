@@ -1,4 +1,5 @@
 ﻿  Source.c
-C:\Users\Steph\source\repos\RadixSort\Source.c(124,26): warning C4013: 'rand' undefined; assuming extern returning int
-C:\Users\Steph\source\repos\RadixSort\Source.c(103,6): warning C4101: 'splitTime': unreferenced local variable
+C:\Users\Steph\source\repos\RadixSort\Source.c(17,25): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\Steph\source\repos\RadixSort\Source.c(75,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Steph\source\repos\RadixSort\Source.c(77,11): warning C4013: 'strcpy' undefined; assuming extern returning int
   RadixSort.vcxproj -> C:\Users\Steph\source\repos\RadixSort\Debug\RadixSort.exe
